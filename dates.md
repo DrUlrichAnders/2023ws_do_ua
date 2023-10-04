@@ -1,8 +1,16 @@
-# Dates of courseworks
+# Requirements of courseworks and dates
+
+- Interesting to students, engaging
+
+- Bring across at least. 3 important messages
+
+- WHAT, WHY (WHAT PROBLEM DOES IT SOLVE), HOW?
+
+- Own graphics (do not use graphics from the Internet)
 
 ## 15.11.2023
 
-- Holocray ← Oliver M.
+- Holacracy ← Oliver M.
 
 - Culture ← YY
 
