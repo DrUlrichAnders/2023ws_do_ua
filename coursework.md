@@ -1,6 +1,6 @@
 # My topic
 
-Version 1.2.0
+Version 1.2.1
 
 ![i01](i01.jpg)
 
@@ -16,7 +16,7 @@ Version 1.2.0
 
 ---
 
-### HOW?
+## HOW?
 
 ---
 
