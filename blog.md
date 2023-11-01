@@ -1,7 +1,13 @@
 # Teaching Digital Organisation
 
-This will be the most interesting blog, of how I teach _Digital Organisation_.
+This will be the most interesting blog on a how to teach _Digital Organisation_.
 
-My students are smart and great.
+The core idea is not to theoretically present Digital Organisation on slides, but the let students experience and construct a digital organisation.
 
-We are making good progress. And I use picture for my blog. They are going to com...
+For this they are going to use
+
+- digital tools, such as Miro or Mural
+- workflows, such as git in GitHub
+- "program" lightly in Markdown
+
+They will also get to know the philosophy of agile organisations, such as "customer centricity", "customer-producer-relationships", "motivation", "retros" and much more.
